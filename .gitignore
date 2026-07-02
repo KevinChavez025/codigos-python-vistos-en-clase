@@ -190,10 +190,10 @@ solution.py
 # /08_range_and_list_comprehension/
 # /09_tuples_set_dictionaries/
 # /10_lambda_functions/
-# /11_map_filter_reduce/
+/11_map_filter_reduce/
 /12_scope/
 /13_namespace/
 /14_variable_declarations/
 /15_comments/
-/16_classes_objects/
-/17_modules_and_packages/
+# /16_classes_objects/
+# /17_modules_and_packages/
